@@ -24,6 +24,7 @@ const Hero = () => {
                             {/* </a> */}
                             <div className="flex horizontal gap-40 items-center">
                                 <a href='#why-maia' className='link-2 white hide-mon'>Why Maia?</a>
+                                <a href='#footer' className='link-2 white hide-mon'>Contact Us</a>
                                 <a href='/register' className='btn w-button'>Register</a>
 
 
