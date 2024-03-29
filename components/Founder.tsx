@@ -31,7 +31,7 @@ const Founder = () => {
                         </div>
 
 
-                        <div data-w-id="f9bca3fc-72f9-b9c6-234f-3380e3b1fefc" className="text-block small lightblue">Rahul Sharma, Founder & CEO</div>
+                        <div data-w-id="f9bca3fc-72f9-b9c6-234f-3380e3b1fefc" className="text-block small lightblue">Rahul Sharma, Founder</div>
                         <Image src={quote} loading="lazy" alt=" qoute" className="aspas" />
 
 
