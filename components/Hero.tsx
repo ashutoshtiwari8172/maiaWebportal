@@ -25,7 +25,8 @@ const Hero = () => {
                             <div className="flex horizontal gap-40 items-center">
                                 <a href='#why-maia' className='link-2 white hide-mon'>Why Maia?</a>
                                 <a href='#footer' className='link-2 white hide-mon'>Contact Us</a>
-                                <a href='/register' className='btn w-button'>Register</a>
+                                <a href="/register_client" className="btn  w-button">Register your website</a>
+
 
 
 
@@ -41,7 +42,8 @@ const Hero = () => {
                         <div className='spacer _20'></div>
                         <div data-w-id="69a01b66-c557-429b-f876-07a3955584e6" className="flex horizontal gap-32 no-vertical">
                             <a href="/download" className="btn w-button">Download</a>
-                            <a href="/register_client" className="btn  w-button">Register your website</a>
+                            <a href='/register' className='btn w-button'>Register</a>
+
 
 
                         </div>
