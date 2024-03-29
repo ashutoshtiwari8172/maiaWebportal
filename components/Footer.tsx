@@ -9,7 +9,7 @@ const Footer = () => {
 
 
 
-    <footer data-w-id="153a165c-1157-a80d-2a3c-c3c9175e7964" className="footer wf-section">
+    <footer id='footer' data-w-id="153a165c-1157-a80d-2a3c-c3c9175e7964" className="footer wf-section">
 
       <div className="main-container _20 w-container">
 
