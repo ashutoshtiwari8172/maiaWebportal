@@ -25,7 +25,7 @@ const Hero = () => {
                             <div className="flex horizontal gap-40 items-center">
                                 <a href='#why-maia' className='link-2 white hide-mon'>Why Maia?</a>
                                 <a href='#footer' className='link-2 white hide-mon'>Contact Us</a>
-                                <a href="/register_client" className="btn  w-button">Register your website</a>
+                                <a href="/error" target='_blank' className="btn  w-button">Register website</a>
 
 
 
@@ -33,16 +33,12 @@ const Hero = () => {
                             </div>
                         </div>
                         <div className='spacer _60'></div>
-                        < h1 data-w-id="5f682bc3-a08d-63d5-a3c5-dce743490c39" className='hero-h1' style={{
-                            opacity: 1,
-                            transform: 'translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)',
-                            transformStyle: 'preserve-3d',
-                        }}>Can you imagine a world where phishing becomes harmless?</h1>
+                        < h1 data-w-id="5f682bc3-a08d-63d5-a3c5-dce743490c39" className='hero-h1'>Can you imagine a world where phishing becomes harmless?</h1>
                         <h2 data-w-id="fbddb410-44ad-77f8-d548-2ad64594cc37" className="regular">With Maia, make it a reality.</h2>
                         <div className='spacer _20'></div>
                         <div data-w-id="69a01b66-c557-429b-f876-07a3955584e6" className="flex horizontal gap-32 no-vertical">
-                            <a href="/download" className="btn w-button">Download</a>
-                            <a href='/register' className='btn w-button'>Register</a>
+                            <a href="/error" target='_blank' className="btn w-button">Download</a>
+                            <a href='/error' target='_blank' className='btn w-button'>Register User</a>
 
 
 
