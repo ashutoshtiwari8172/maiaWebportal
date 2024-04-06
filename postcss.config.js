@@ -5,5 +5,5 @@ module.exports = {
   },
 
     
-    optimizeFonts: false,
+  
 };
