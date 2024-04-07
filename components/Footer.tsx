@@ -26,7 +26,7 @@ const Footer = () => {
               <div className="text-block white small left">
                 Contact us
                 <br />
-                <a href="asti20is@cmrit.ac.in" className="link">info@pahilabs.com</a>
+                <a href="mailto:info@pahilabs.com" target="_blank" className="link">info@pahilabs.com</a>
                 <br />
                 <br />
                 © 2024 All rights reserved to PahiLabs.
