@@ -25,7 +25,7 @@ const Hero = () => {
                             <div className="flex horizontal gap-40 items-center">
                                 <a href='#why-maia' className='link-2 white hide-mon'>Why Maia?</a>
                                 <a href='#footer' className='link-2 white hide-mon'>Contact Us</a>
-                                <a href="/error" target='_blank' className="btn  w-button">Register website</a>
+                                <a href="https://maia.pahilabs.com/register_client" className="btn  w-button">Register website</a>
 
 
 
@@ -37,8 +37,8 @@ const Hero = () => {
                         <h2 data-w-id="fbddb410-44ad-77f8-d548-2ad64594cc37" className="regular">With Maia, make it a reality.</h2>
                         <div className='spacer _20'></div>
                         <div data-w-id="69a01b66-c557-429b-f876-07a3955584e6" className="flex horizontal gap-32 no-vertical">
-                            <a href="/error" target='_blank' className="btn w-button">Download</a>
-                            <a href='/error' target='_blank' className='btn w-button'>Register User</a>
+                            <a href="https://maia.pahilabs.com/download" target='_blank' className="btn w-button">Download</a>
+                            <a href='https://maia.pahilabs.com/register' className='btn w-button'>Register User</a>
 
 
 
