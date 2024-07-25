@@ -37,7 +37,7 @@ const Hero = () => {
                             </div>
                         </div>
                         <div className='spacer _60'></div>
-                        < h1 data-w-id="5f682bc3-a08d-63d5-a3c5-dce743490c39" className='hero-h1'>Stand with us on the cusp of this transformative journey toward a secure future.</h1>
+                        < h1 data-w-id="5f682bc3-a08d-63d5-a3c5-dce743490c39" className='hero-h1'>Can you imagine a world where phishing becomes harmless?</h1>
                         <h2 data-w-id="fbddb410-44ad-77f8-d548-2ad64594cc37" className="regular">With Maia, make it a reality.</h2>
                         <div className='spacer _20'></div>
                         {/* <div data-w-id="69a01b66-c557-429b-f876-07a3955584e6" className="flex horizontal gap-32 no-vertical">
